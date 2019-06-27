@@ -13,7 +13,7 @@ In this project I show how we can make Saint Petersburg cleaner by using neural 
 ## Setup
 Clone this repo:
 ```
-git clone https://github.com/andreiliphd/pytorch-clean_city.git
+git clone https://github.com/andreiliphd/pytorch-clean-city-saint-petersburg.git
 ```
 Install all the dependencies.
 
