@@ -22,7 +22,7 @@ Install all the dependencies.
 
 ## Usage
 
-Please provide information in the format of Russian Accounting Standards.
+Please provide pictures for inference.
 
 ---
 
