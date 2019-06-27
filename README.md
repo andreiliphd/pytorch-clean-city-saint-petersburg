@@ -25,8 +25,3 @@ Install all the dependencies.
 Please provide pictures for inference.
 
 ---
-
-## License
-You can check out the full license in the LICENSE file.
-
-This project is licensed under the terms of the **MIT** license.
